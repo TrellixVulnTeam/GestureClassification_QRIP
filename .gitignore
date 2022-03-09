@@ -22,3 +22,7 @@ bin/*.txt
 doc/**/*.pdf
 
 *.dll
+
+*.exe
+
+*.pdb
